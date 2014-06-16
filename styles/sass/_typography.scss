@@ -17,7 +17,7 @@ a{
 
 /* Header
 ================================ */
-.cf li{
+nav ul li{
   color: #c8c6c2;
   a{
   font-weight: 300;
@@ -25,15 +25,12 @@ a{
   }
 }
 h1{
-  font-size: 2.7rem;
-  font-weight: 400;
+  font-size: 1.8rem;
+  font-weight: bold;
+  line-height: 2rem;
 }
 .utility-nav, .tagline, .details{
-  font-size: .8rem;
+  font-size: .9rem;
 }
 
 // Content
-.postheader{
-  font-size: 2rem;
-  line-height: 2.3rem;
-}

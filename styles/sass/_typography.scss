@@ -32,5 +32,12 @@ h1{
 .utility-nav, .tagline, .details{
   font-size: .9rem;
 }
-
+.readmore{
+  text-align: right;
+}
+.masthead-title{
+  a{
+    color: $black;
+  }
+}
 // Content

@@ -2,20 +2,15 @@
     <section class="content introduction">
       {{body}}
       <hr>
-      {{ site.pages.about-framework-opportunities.excerpt }}
-    <p class="readmore details"><a href="/about-framework-opportunities"><span class="buttonish"><span class="ss-icon ss-standard"> &#x21AA; </span> Read More</span></a></p>
-    <hr>
     </section><!-- /content -->
     <section class="content opportunities">
       <h2>New Opportunities</h2>
-      {% for post in site.pages.current-opportunities.posts limit:3 %}
+      {% for post in site.pages.current-opportunities.posts limit:4 %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p class="details"><strong>Lot:</strong> {{ post.meta.lot }} | <strong>Location:</strong> {{ post.meta.location }}</p>
         <hr>
       {% endfor %}
-      <p class="readmore details"><a href="#"><span class="buttonish"><span class="ss-icon ss-standard"> &#x21AA; </span> View All Opportunities</span></a></p>
-    </section>
-    <section class="content opportunities-lot">
+      <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> VIEW ALL OPPORTUNITIES</a></p>
       <h3>View Opportunities by Lot</h3>
         <table>
           <thead>
@@ -54,8 +49,8 @@
           </tbody>
         </table>
     </section>
-    <section class="content text-box">
-      {{ meta.text-box | markdown }}
+    <section class="text-box">
+      {{ site.pages.opportunities.meta.text-box | markdown }}
     </section>
 {% endcapture %}
 {% include 'layouts/default' %}

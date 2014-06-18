@@ -1,0 +1,21 @@
+{% capture content %}
+    <section class="content introduction">
+      <h1>{{ title }}</h1>
+      <ul class="project-details">
+        <li><strong>Project: </strong> {{ meta.project }}</li>
+        <li><strong>Lot:</strong> {{ meta.lot }}</li>
+        <li><strong>Assignment Duration:</strong> {{ meta['assignment duration'] }}</li>
+        <li><strong>Eligible Nationalities:</strong> {{ meta['eligible nationalities'] }}</li>
+        <li><strong>Project Reference:</strong> {{ meta['project reference'] }}</li>
+        <li><strong>Location:</strong> {{ meta.location }}</li>
+        <li><strong>Estimated Start Date:</strong> {{ meta['estimated start'] }}</li>
+        <li><strong>Application Deadline:</strong> {{ meta['application deadline'] }}</li>
+      </ul>
+      {{body}}
+    </section><!-- /content -->
+    {% include 'includes/opportunities' %}
+      <section class="content text-box">
+        {{ meta.text-box | markdown }}
+      </section>
+{% endcapture %}
+{% include 'layouts/default' %}

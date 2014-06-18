@@ -21,15 +21,57 @@ box-sizing: border-box;
 -moz-box-sizing: border-box;
 }
 img, video, object{ max-width: 100% }
-
+img{
+  border: 1px solid $nav-gray;
+}
 article, header, nav, section {
     display: block;
 }
 
 /* Page Layout
 ================================ */
+.project-details{
+  list-style-type: none;
+  background-color: $highlight-gray;
+  padding: .8em;
+  li{
+    margin-bottom: .5em;
+  }
+}
+
+.opportunities-lot{
+    padding: .7em;
+    background-color: $highlight-gray;
+    margin-top: 1.5em;
+}
+.opportunities{
+  padding: .7em;
+  background-color: $highlight-gray;
+  margin-top: 1.5em;
+  hr:last-of-type{
+    display: none;
+  }
+  p:nth-last-of-type(2){
+    margin-bottom: 2em;
+  }
+}
 .buttonish{
-  border-bottom: 1px solid $green-link;
+  padding: 4px 7px 4px 7px;
+  box-shadow: 0px 0px 4px 0px #8d8d8d;
+  a{
+    color: white;
+  }
+  a:hover{
+    color: white;
+  }
+  a:visited{
+    color: white;
+  }
+  background-color: $green-link;
+}
+.buttonish:hover{
+  box-shadow: none;
+  background-color: #447a42;
 }
 // Tables
 table {
@@ -62,6 +104,9 @@ tbody tr:nth-child(odd) th {
   @include width(4);
   margin: auto;
   margin-bottom: .5em;
+  img{
+    border: 0px;
+  }
 }
 .masthead{
   @include width(4);
@@ -171,6 +216,11 @@ section hr{
     font-size: 13px;
     line-height: 22px;
   }
+  .opportunities-lot{
+    table{
+        font-size: .9rem;
+    }
+  }
 
 }
 /*
@@ -227,29 +277,19 @@ section hr{
     float: left;
     margin-right: $gutter;
   }
-  .opportunities{
+  .opp-wrap{
     @include width(5);
     float: right;
-    padding: .7em;
-    background-color: $highlight-gray;
-    margin-top: 1.5em;
   }
   .opportunities-lot{
-    @include width(5);
-    float: right;
-    clear: right;
-    padding: .7em;
-    background-color: $highlight-gray;
     table{
       font-size: .7rem;
     }
-    margin-top: 1.5em;
   }
   .text-box{
     @include width(7);
     margin-right: $gutter;
-    clear: left;
-    padding-top: .4em;
+    float: left;
   }
 }
 /* I got 99 problems, but this last line ain't one */

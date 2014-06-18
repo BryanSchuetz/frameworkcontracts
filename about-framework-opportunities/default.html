@@ -3,52 +3,7 @@
       {{body}}
       <hr>
     </section><!-- /content -->
-    <section class="content opportunities">
-      <h2>New Opportunities</h2>
-      {% for post in site.pages.current-opportunities.posts limit:4 %}
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="details"><strong>Lot:</strong> {{ post.meta.lot }} | <strong>Location:</strong> {{ post.meta.location }}</p>
-        <hr>
-      {% endfor %}
-      <p class="readmore details"><a href="#"><span class="ss-icon ss-standard"> &#x21AA; </span> VIEW ALL OPPORTUNITIES</a></p>
-      <h3>View Opportunities by Lot</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>BENEF</th>
-              <th>EC Com</th>
-              <th>AusAid</th>
-              <th>New Zealand Aid</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td><a href="#">Lot 1</a></td>
-              <td><a href="#">Lot 1</a></td>
-              <td><a href="#">DFAT</a></td>
-              <td><a href="#">MFAT</a></td>
-            </tr>
-            <tr>
-              <td><a href="#">Lot 6</a></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="#">Lot 7</a></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-            <tr>
-              <td><a href="#">Lot 10</a></td>
-              <td></td>
-              <td></td>
-              <td></td>
-            </tr>
-          </tbody>
-        </table>
-    </section>
+    {% include 'includes/opportunities' %}
     <section class="text-box">
       {{ site.pages.opportunities.meta.text-box | markdown }}
     </section>

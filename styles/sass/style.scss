@@ -30,6 +30,15 @@ article, header, nav, section {
 
 /* Page Layout
 ================================ */
+.partner-logo{
+  float: left;
+  height: 132px;
+  width: 132px;
+  padding: 5px;
+  img{
+    width: 100%;
+  }
+}
 .project-details{
   list-style-type: none;
   background-color: $highlight-gray;
@@ -221,7 +230,10 @@ section hr{
         font-size: .9rem;
     }
   }
-
+  .partner-logo{
+    height: 136px;
+    width: 136px;
+  }
 }
 /*
   Tablet layout
@@ -248,6 +260,10 @@ section hr{
   }
   .utility-nav{
     @include width(8)
+  }
+  .partner-logo{
+    height: 138px;
+    width: 138px;
   }
 }
 /*
@@ -290,6 +306,10 @@ section hr{
     @include width(7);
     margin-right: $gutter;
     float: left;
+  }
+  .partner-logo{
+    height: 112px;
+    width: 112px;
   }
 }
 /* I got 99 problems, but this last line ain't one */

@@ -1,5 +1,5 @@
 <div class="opp-wrap cf">
-  <section class="content opportunities-lot">
+  <section class="content opportunities-lot cf">
     <h3>View Opportunities by Lot</h3>
       <table>
         <thead>
@@ -38,4 +38,14 @@
         </tbody>
       </table>
   </section>
+  <div class="partner-logos cf">
+    <h3>Partners</h3>
+    {% for asset in assets %}
+      {% if asset.meta.partners? %}
+        <div class="partner-logo">
+          <a href="{{ asset.meta.url }}"><img src="{{ asset.url}}" alt="" /></a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
 </div>

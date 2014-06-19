@@ -1,5 +1,5 @@
 {% capture content %}
-    <section class="content introduction">
+    <section class="content introduction introduction-lot">
       <h1>Lot {{ title }}</h1>
       <h2>Current Opportunities:</h2>
         {% for post in site.pages.current-opportunities.posts %}
@@ -7,17 +7,15 @@
             {% assign has_opps = 'true' %}
               <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
               <p class="details"><strong>Lot:</strong> {{ post.meta.lot }} | <strong>Location:</strong> {{ post.meta.location }} | <strong>Project:</strong> {{post.meta.project }} | <strong>Estimated Start:</strong> {{ post.meta['estimated start'] }}</p>
+              <hr>
           {% endif %}
         {% endfor %}
         {% unless has_opps == 'true' %}
           <p>There are no current opportunities for this contract.</p>
+          <hr>
         {% endunless %}
-        <hr>
         {{ body }}
     </section><!-- /content -->
     {% include 'includes/opportunities-brief' %}
-      <section class="content text-box">
-        {{ meta.text-box | markdown }}
-      </section>
 {% endcapture %}
 {% include 'layouts/default' %}

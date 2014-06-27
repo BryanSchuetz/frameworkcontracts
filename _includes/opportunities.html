@@ -3,7 +3,7 @@
     <h2>New Opportunities</h2>
     {% for post in site.pages.current-opportunities.posts limit:4 %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p class="details"><strong>Lot:</strong> {{ post.meta.lot }} | <strong>Location:</strong> {{ post.meta.location }}</p>
+      <p class="details"><strong>Lot:</strong> <a href="/lots/{{ post.meta.lot | replace: ' ', '-' | downcase }}">{{ post.meta.lot }}</a> | <strong>Location:</strong> {{ post.meta.location }}</p>
       <hr>
     {% endfor %}
     <p class="readmore details"><span class="buttonish"><a href="/current-opportunities/archive"><span class="ss-icon ss-standard"> &#x21AA; </span> View All Oportunities</a></span></p>

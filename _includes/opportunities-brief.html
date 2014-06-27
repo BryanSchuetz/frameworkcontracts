@@ -39,13 +39,16 @@
       </table>
   </section>
   <div class="partner-logos cf">
-    <h3>Partners</h3>
-    {% for asset in assets %}
-      {% if asset.meta.partners? %}
-        <div class="partner-logo">
-          <a href="{{ asset.meta.url }}"><img src="{{ asset.url}}" alt="" /></a>
-        </div>
-      {% endif %}
-    {% endfor %}
+    {% if assets.size > 0 %}
+
+      <h3>Partners</h3>
+      {% for asset in assets %}
+        {% if asset.meta.partners? %}
+          <div class="partner-logo">
+            <a href="{{ asset.meta.url }}"><img src="{{ asset.url}}" alt="" /></a>
+          </div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
   </div>
 </div>

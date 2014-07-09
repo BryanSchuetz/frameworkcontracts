@@ -1,8 +1,6 @@
 {% capture content %}
     <section class="content introduction">
-      {{site.pages.dai.excerpt}}
-      <p class="readmore details"><span class="buttonish"><a href="/dai
-  "><span class="ss-icon ss-standard"> &#x21AA; </span> Read More</span></a></p>
+      {{body}}
       {% if '/' == url %}
       <hr>
         {{ site.pages.about-framework-opportunities.excerpt }}
@@ -12,7 +10,7 @@
     </section><!-- /content -->
     {% include 'includes/opportunities' %}
       <section class="content text-box">
-        {{ meta.text-box | markdown }}
+        {{ site.pages.opportunities.meta.text-box | markdown }}
       </section>
 {% endcapture %}
 {% include 'layouts/default' %}

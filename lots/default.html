@@ -1,6 +1,13 @@
 {% capture content %}
     <section class="content introduction introduction-lot">
       <h1>{{ title }}</h1>
+      {% if assets.size > 0 %}
+        {% for asset in assets %}
+          {% if asset.meta.lotpic? %}
+          <img src="{{ asset.url}}" alt="" />
+          {% endif %}
+        {% endfor %}
+      {% endif %}
       <h2>Current Opportunities:</h2>
         {% for post in site.pages.current-opportunities.posts %}
           {% if post.meta.lot == meta.lot %}

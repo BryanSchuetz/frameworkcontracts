@@ -110,12 +110,11 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 1em;
 }
 .logo{
-  @include width(4);
-  margin: auto;
+  width: 210px;
+  height: 80px;
   margin-bottom: .5em;
-  img{
-    border: 0px;
-  }
+  background: url(/images/logo.svg) no-repeat top left;
+  background-size: contain;
 }
 .masthead{
   @include width(4);
@@ -206,14 +205,15 @@ section hr{
     float: left;
     margin-right: $gutter;
     margin-bottom: 0;
+    height: 45px;
   }
   .masthead-title{
     @include width(4);
     display: block;
     float: right;
-    margin-top: .1em;
+    margin-top: 0;
     margin-bottom: 0;
-    font-size: 1.7rem;
+    font-size: 2rem;
   }
   .wrap{
     @include width(6);
@@ -245,7 +245,7 @@ section hr{
     @include width(8);
   }
   .masthead-title{
-    @include width(6);
+    @include width(5);
     margin-top: -0.1em;
   }
   .wrap{
@@ -265,6 +265,10 @@ section hr{
     height: 138px;
     width: 138px;
   }
+  .logo{
+    @include width(3);
+    height: 70px;
+  }
 }
 /*
   Widescreen layout
@@ -276,7 +280,7 @@ section hr{
     @include width(12);
   }
   .masthead-title{
-    @include width(10);
+    @include width(9);
   }
   .wrap{
     @include width(12);

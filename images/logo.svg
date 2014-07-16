@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="656px" height="239px" viewBox="0 0 656 239" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.3 (7891) - http://www.bohemiancoding.com/sketch -->
+    <title>Unified logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="DAI" sketch:type="MSLayerGroup">
+            <path d="M0,0 L0,49 L248,49 L248,0 L0,0 L0,0 Z" id="Rectangle-1" fill="#8DBCDA" sketch:type="MSShapeGroup"></path>
+            <path d="M0,56 L0,105 L248,105 L248,56 L0,56 L0,56 Z" id="Rectangle-1-copy" fill="#62AC5E" sketch:type="MSShapeGroup"></path>
+            <path d="M0,114 L0,163 L248,163 L248,114 L0,114 L0,114 Z" id="Rectangle-1-copy-2" fill="#6A4C17" sketch:type="MSShapeGroup"></path>
+            <path d="M332,38 L332,127 L358.415095,127 C362.691845,127 366.842747,126.274822 370.867924,124.824444 C374.893102,123.374067 378.477972,120.967795 381.622641,117.605556 C384.767311,114.243317 387.283009,109.859286 389.169811,104.453333 C391.056613,99.0473801 392,92.4548539 392,84.6755559 C392,77.55552 391.33963,71.1278065 390.018868,65.3922222 C388.698107,59.656638 386.528317,54.7452056 383.509434,50.6577778 C380.490551,46.5703499 376.49688,43.4388998 371.528302,41.2633333 C366.559723,39.0877669 360.427709,38 353.132076,38 L332,38 Z M290,163 L290,2 L361.639241,2 C372.338661,2 382.301378,3.65357824 391.52769,6.96078431 C400.754002,10.2679904 408.739682,15.2287251 415.484968,21.8431372 C422.230255,28.4575494 427.502355,36.7254406 431.301424,46.6470588 C435.100493,56.568677 437,68.2188875 437,81.5980394 C437,93.3235882 435.449383,104.14701 432.348101,114.068627 C429.24682,123.990246 424.556202,132.558787 418.276108,139.77451 C411.996013,146.990232 404.165395,152.665012 394.784019,156.79902 C385.402643,160.933027 374.354494,163 361.639241,163 L290,163 Z M495,100 L537,100 L516.567567,42 L516.113513,42 L495,100 Z M476.152813,49.4518595 L494.186409,2 L538.235808,2 C538.235808,2 547.435974,26.7845242 556.636144,51.5690475 L598,163 L554.095847,162.999999 L543.585469,133.736542 L485.802359,133.736542 L475.954696,162.999999 L433,163 L476.152813,49.4518595 Z M612,163 L612,2 L654,2 L654,163 L612,163 Z" id="Shape" fill="#6A4C17" sketch:type="MSShapeGroup"></path>
+        </g>
+        <text id="Proudly-Incorporatin" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="48" font-style="italic" font-weight="473" fill="#374449">
+            <tspan x="0" y="229">Proudly Incorporating HTSPE</tspan>
+        </text>
+    </g>
+</svg>

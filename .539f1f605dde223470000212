@@ -1,72 +1,66 @@
 ---
-time: 1406667335
+time: 1406670880
 inventory:
   /opportunities/index.html:
-    md5: d22b1973718cb021f6299816ff12ed9d
-    time: 1406667330
+    md5: d6f76cca39f31e0a59f75f78cdf31ff4
+    time: 1406670875
   /index.html:
-    md5: d22b1973718cb021f6299816ff12ed9d
-    time: 1406667330
+    md5: d6f76cca39f31e0a59f75f78cdf31ff4
+    time: 1406670875
   /current-opportunities/index.html:
-    md5: e63ea1f8bdda999ac672a9b14a430ebd
-    time: 1406667330
+    md5: 3dd08c3ec5bc99ddfc4da35b6c0f33fe
+    time: 1406670875
   /current-opportunities/agricultural-experts-mfat-experience/index.html:
-    md5: 407245c4bbdb66bffb7d7c147192432a
-    time: 1406667330
-  /current-opportunities/archive/index.html:
-    md5: 0a6ee15d51c3fda60cb632ecda1df28c
-    time: 1406667330
-  /current-opportunities/tags/index.html:
-    md5: b8d71724f8a747f51f87e241319d97f4
-    time: 1406667330
+    md5: ddd207c34c1e3e1577dc25fcdee79bd2
+    time: 1406670875
   /about-framework-opportunities/index.html:
-    md5: 15da9fa737a2ccbdabecf7374a7a833e
-    time: 1406667330
+    md5: 39d02641e5a421c97bdcb4316748bc7b
+    time: 1406670875
   /working-on-framework-contracts/index.html:
-    md5: 29821bd5d2f904c1f03cac7efb755ddb
-    time: 1406667330
+    md5: 6d8f33b697c28e458aebe44e19a5a169
+    time: 1406670876
   /contact/index.html:
-    md5: fb8c12396de7638ef6d7e5ebfb15361d
-    time: 1406667330
+    md5: 55aaa5ddb3e0f021e4e3e69789af221c
+    time: 1406670876
   /about-framework-contracts/index.html:
-    md5: d10c54322790b830cce5d0403da817d1
-    time: 1406667330
+    md5: 2bfaa7f6c6a0681aa66d6b0a70a13e35
+    time: 1406670876
   /lots/index.html:
-    md5: e3b3b5e8eef3bb8023d258b72439c9ac
-    time: 1406667330
+    md5: 9a06c43c7982e0d7e0836285a9050eb0
+    time: 1406670876
   /dai/index.html:
-    md5: 64198d40af845dbd087ec4adbd243c78
-    time: 1406667331
+    md5: 1355ad049ff13360363f6bd5f55d9bfe
+    time: 1406670876
   /lots/ec-com-1/index.html:
-    md5: 60f462e389f3c365c86ed3674bcb88fd
-    time: 1406667331
+    md5: 3d89567e434e0a3cbeeb6a1a9c1d95d7
+    time: 1406670876
   /lots/benef-1/index.html:
-    md5: f232df947ec581749d436327946ffa66
-    time: 1406667331
+    md5: 38de2f51c7f03d13192796ed63f18d8a
+    time: 1406670876
   /lots/benef-6/index.html:
-    md5: 97608ded18108bfcb26b39dd96b0fa1e
-    time: 1406667331
+    md5: 593cfa4af3626c23a54c22091fa97812
+    time: 1406670876
   /lots/benef-7/index.html:
-    md5: c05c2f4d52186cf264936604167810b3
-    time: 1406667331
+    md5: 74f312550f01781abe4c7a3e14e7dc4b
+    time: 1406670877
   /lots/benef-10/index.html:
-    md5: 3d8f17c5aa9bc3058f8d0522a62e2d6f
-    time: 1406667331
+    md5: 791a068ba87d4f0136e6c84c250ac03a
+    time: 1406670877
   /lots/dfat/index.html:
-    md5: 405d984c7bd8afdbf5539ecea19a73fa
-    time: 1406667331
+    md5: d6ada1ab95015e9bdfbb690330811f20
+    time: 1406670877
   /lots/mfat/index.html:
-    md5: 14922be713db9dc717bc12c9c0199fe1
-    time: 1406667332
+    md5: 5bb5256b90aa439e6a36999305c6ff39
+    time: 1406670877
   /CNAME:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   /sitemap.xml:
-    md5: 3e7975657c61593a52ad7016e94d86e4
-    time: 1406667332
+    md5: 829aea4a933bcec7f0521d411fe87d81
+    time: 1406670877
   /feed.xml:
-    md5: e5218763759e4f031e551d0dc7385d82
-    time: 1406667332
+    md5: 0b60ab11e4a5cd92256c62c637f3818b
+    time: 1406670877
   /assets/hemel_map.jpg:
     md5: 157573bf91740bfbdfc93ccfa4fd45b2
     time: 1405544447

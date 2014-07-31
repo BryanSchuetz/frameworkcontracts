@@ -106,8 +106,8 @@ tbody tr:nth-child(odd) th {
 .primary-header{
   background-color: rgb(242, 240, 237);
   width: 100%;
-  padding-top: 1em;
-  padding-bottom: 1em;
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 .logo{
   width: 210px;
@@ -193,7 +193,9 @@ section hr{
 */
 
 @media screen and (min-width: 15em) {
-
+.utility-nav{
+  font-size: .6rem;
+}
 }
 /*
   Wide mobile layout
@@ -203,6 +205,9 @@ section hr{
 @media screen and (min-width: 30em) {
   .masthead{
     @include width(6);
+  }
+  .utility-nav{
+    font-size: .9rem;
   }
   .logo{
     @include width(2);

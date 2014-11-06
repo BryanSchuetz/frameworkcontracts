@@ -9,7 +9,13 @@ html{
   font-size: 12px;
   line-height: 20px;
 }
-
+.cvAdvert{
+  padding: .5em;
+  background-color: $highlight-gray;
+  p{
+    margin:5px;
+  }
+}
 body{
   font-family: 'proxima-nova-1', Helvetica, Arial, sans-serif;
   margin: 0;
@@ -220,8 +226,6 @@ section hr{
     @include width(4);
     display: block;
     float: right;
-    margin-top: 0;
-    margin-bottom: 0;
     font-size: 2rem;
   }
   .wrap{
@@ -255,7 +259,6 @@ section hr{
   }
   .masthead-title{
     @include width(5);
-    margin-top: -0.1em;
   }
   .wrap{
     @include width(8);
@@ -291,7 +294,6 @@ section hr{
   .masthead-title{
     @include width(9);
     font-size: 3rem;
-    margin-top: .05em;
   }
   .wrap{
     @include width(12);

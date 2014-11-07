@@ -24,5 +24,8 @@
         {{ body }}
     </section><!-- /content -->
     {% include 'includes/opportunities-brief' %}
+    {% if current.posts > 0 %}
+      {% include 'includes/history' %}
+    {% endif %}
 {% endcapture %}
 {% include 'layouts/default' %}

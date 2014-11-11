@@ -1,17 +1,17 @@
 <div class="cf opp-wrap">
-  <section class="content opportunities-lot cf">
-    <h3>Project History</h3>
+  <section class="content opportunities-lot cf history">
+    <h3>{{ meta.lot }} Project History</h3>
     <table>
         <thead>
           <tr>
             <th>Project</th>
-            <th>Country</th>
+            <th>Region</th>
           </tr>
         </thead>
         <tbody>
           {% for post in current.posts %}
             <tr>
-              <td><a href="{{ post.permalink }}">{{ post.title }}</a></td>
+              <td><a href="{{ post.url }}">{{ post.title }}</a></td>
               <td>{{ post.meta.country }}</td>
             </tr>
           {% endfor %}

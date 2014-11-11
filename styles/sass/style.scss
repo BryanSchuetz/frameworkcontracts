@@ -9,6 +9,11 @@ html{
   font-size: 12px;
   line-height: 20px;
 }
+.history{
+  a, td{
+    line-height: 19px;
+  }
+}
 .cvAdvert{
   padding: .5em;
   background-color: $highlight-gray;

@@ -8,6 +8,7 @@
           {% endif %}
         {% endfor %}
       {% endif %}
+      {% if type == 'page' %}
       <h2>Current Opportunities:</h2>
         {% for post in site.pages.current-opportunities.posts %}
           {% if post.meta.lot == meta.lot %}
@@ -21,10 +22,11 @@
           <p>There are no current opportunities for this contract.</p>
           <hr>
         {% endunless %}
+      {% endif %}
         {{ body }}
     </section><!-- /content -->
     {% include 'includes/opportunities-brief' %}
-    {% if current.posts > 0 %}
+    {% if posts.size > 0 %}
       {% include 'includes/history' %}
     {% endif %}
 {% endcapture %}

@@ -12,6 +12,9 @@ html{
 .cvlink{
   text-align: right;
   clear: right;
+  a{
+    font-weight: bold;
+  }
 }
 .history{
   a, td{

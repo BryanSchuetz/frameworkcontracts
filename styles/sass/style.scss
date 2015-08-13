@@ -4,7 +4,6 @@
 @import "reset";
 @import "variables";
 @import "typography";
-
 html{
   font-size: 12px;
   line-height: 20px;
@@ -339,5 +338,8 @@ section hr{
     height: 112px;
     width: 112px;
   }
+}
+.cvAdvert{
+  margin-top: 8px;
 }
 /* I got 99 problems, but this last line ain't one */

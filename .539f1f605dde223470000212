@@ -1,5 +1,5 @@
 ---
-time: 1460385480
+time: 1460447998
 inventory:
   "/opportunities/index.html":
     md5: cdca51814fdb75bd60d0d6bcd2a48223
@@ -200,8 +200,8 @@ inventory:
     md5: 7e94ef03660f61f593475063af2fb33d
     time: 1460383630
   "/dai/index.html":
-    md5: 232e758119c83b7f05ad6afb305737a4
-    time: 1460383632
+    md5: 358e421e8262d5c06f8e00f2ed3282d6
+    time: 1460447995
   "/lots/ec-com-1/index.html":
     md5: 16bbe01a0526fd31a728b4a9e39c62ac
     time: 1460383635
@@ -257,11 +257,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: 629dca6d5e7d616ae2d04b8bc3ca4e9e
-    time: 1460385478
+    md5: a1f80e31a7cfa7ab3afc125595ec51f7
+    time: 1460447996
   "/feed.xml":
-    md5: 0232af7aa4c0c4280f0f4580ecd866ae
-    time: 1460385478
+    md5: db34df08a5efa805d535653722c2158b
+    time: 1460447996
   "/assets/hemel_map.jpg":
     md5: 157573bf91740bfbdfc93ccfa4fd45b2
     time: 1405544447

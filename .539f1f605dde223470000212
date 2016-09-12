@@ -1,5 +1,5 @@
 ---
-time: 1473670895
+time: 1473686774
 inventory:
   "/opportunities/index.html":
     md5: f08523e629ce4364d35113e6c6775193
@@ -35,8 +35,8 @@ inventory:
     md5: 1ad9a8e91e0342cc0b36f0214f77e95c
     time: 1473670866
   "/current-opportunities/asist-programme-1/index.html":
-    md5: ff674cb3d0113ef3ae1c082672c8fbaf
-    time: 1473670866
+    md5: ff78a7e3f70c993c11e3a2d03150703e
+    time: 1473686770
   "/current-opportunities/area-b-enhancing-cybersecurity-in-ecowas-region-category-i/index.html":
     md5: d734a399fee37b2b4b74baa724b287a2
     time: 1473670866
@@ -212,11 +212,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: 40f4d0dfaca868defadfe06dc8f12116
-    time: 1473670869
+    md5: a572f44ae4d606561a7bbf6a99919cc0
+    time: 1473686772
   "/feed.xml":
-    md5: 45836e359b0670f20ce7450b2a927966
-    time: 1473670869
+    md5: e61dee41212ccdbb6df2bfb6be1ffe6c
+    time: 1473686773
   "/assets/hemel_map.jpg":
     md5: 157573bf91740bfbdfc93ccfa4fd45b2
     time: 1405544447

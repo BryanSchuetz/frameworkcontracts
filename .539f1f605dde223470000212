@@ -1,5 +1,5 @@
 ---
-time: 1477477738
+time: 1477477844
 inventory:
   "/opportunities/index.html":
     md5: 38803313f71f60b6c6a474fedec0a091
@@ -41,8 +41,8 @@ inventory:
     md5: 6692524b99c987b7fef70a640e35bf0f
     time: 1477477189
   "/current-opportunities/junior-garment-supply-chain-expert-cat-ii/index.html":
-    md5: 7f5435166130b4e4fdf963cb07ccd86e
-    time: 1477477189
+    md5: a217ea3cc8f6e88fb4833ba4d7269207
+    time: 1477477840
   "/current-opportunities/senior-garment-supply-chain-expert-cat-i/index.html":
     md5: 69d25b9e03c28b82db1ae1c7207ab044
     time: 1477477734
@@ -71,8 +71,8 @@ inventory:
     md5: 1f2885c1f47aa9e3ec5a83937814f9e8
     time: 1477477189
   "/current-opportunities/archive/index.html":
-    md5: 4eb17ba90a422f160160e9037e57ce30
-    time: 1477477735
+    md5: ca7e5fd97313457ded42111f65701c9a
+    time: 1477477840
   "/current-opportunities/tags/index.html":
     md5: ac5e493a276d0a7aa55fc6069ffaa1a0
     time: 1477477190
@@ -107,8 +107,8 @@ inventory:
     md5: d6f828eeae287a8b55e8f4d7d0b7aea7
     time: 1477477190
   "/lots/benef-10/index.html":
-    md5: 56824df0896774092af4e4c35cd44e73
-    time: 1477477736
+    md5: 8bad43db60e78deb20bbbaabc36a133c
+    time: 1477477841
   "/lots/dfat/index.html":
     md5: bdaa7514ac9db1a42f617fc04be4d418
     time: 1477477191
@@ -155,11 +155,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: 5d28e1efe36c98503d23d2c0c4cb0b34
-    time: 1477477736
+    md5: a9024287076803cd0412c8510ee75213
+    time: 1477477842
   "/feed.xml":
-    md5: 6c33a862bc3153cec136ab7fbcd93f98
-    time: 1477477736
+    md5: 54a61f6fb1e10689f5c655f5240d74a1
+    time: 1477477842
   "/assets/hemel_map.jpg":
     md5: 157573bf91740bfbdfc93ccfa4fd45b2
     time: 1405544447

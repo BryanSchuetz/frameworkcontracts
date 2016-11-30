@@ -1,5 +1,5 @@
 ---
-time: 1480506034
+time: 1480506059
 inventory:
   "/opportunities/index.html":
     md5: 8831654bbe4efea61b618e163210361f
@@ -26,8 +26,8 @@ inventory:
   : md5: 35cf707e1cf887ca4192e2a4b30c9e01
     time: 1480506007
   "/current-opportunities/cdm-specialiste-en-formation-de-foramteurs-gouvernance-locale/index.html":
-    md5: fcfcfa30f6434284233fe8402018040d
-    time: 1480506008
+    md5: 7138fb8497db19ed2545a077b2e596c7
+    time: 1480506055
   "/current-opportunities/administrative-assistant/index.html":
     md5: 369db2f3fabfe4670175b9151e8140dc
     time: 1480506008
@@ -221,11 +221,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: d9b86ce7dea4004a26a58331860abfc6
-    time: 1480506012
+    md5: e45bb3671715e98b6adf0ae1d6ea2dab
+    time: 1480506058
   "/feed.xml":
-    md5: 2151cbd12dad40ea2461a00bf1433331
-    time: 1480506012
+    md5: cf99835bf1aa66f29f8f1cf78f829b01
+    time: 1480506058
   "/assets/hemel_map.jpg":
     md5: 157573bf91740bfbdfc93ccfa4fd45b2
     time: 1405544447

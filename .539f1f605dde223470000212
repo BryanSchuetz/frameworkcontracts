@@ -1,5 +1,5 @@
 ---
-time: 1503473283
+time: 1503505194
 inventory:
   "/opportunities/index.html":
     md5: 98ee04c7db9b6f778260ac8cad895aab
@@ -262,9 +262,6 @@ inventory:
   "/assets/dfat.jpg":
     md5: 9563e44f3efffd5e29269862ec8356fd
     time: 1405544454
-  "/images/logo.png":
-    md5: 72699130756f37633c6df97772b3ea65
-    time: 1405544454
   "/images/logo.svg":
     md5: 79f0d6597990b463af170ef8df2a3313
     time: 1405544454
@@ -289,6 +286,9 @@ inventory:
   "/assets/mokoro.jpg":
     md5: 42548c7685a7aa850febb60915a2d121
     time: 1460644597
+  "/images/logo.png":
+    md5: 99f60d3043ad0fa674eb5472544b3ed5
+    time: 1503505193
   "/assets/wagen.jpg":
     md5: 30814ade480d9fc0b41cd206200fee1a
     time: 1405544455

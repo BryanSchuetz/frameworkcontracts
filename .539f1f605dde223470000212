@@ -1,5 +1,5 @@
 ---
-time: 1521152208
+time: 1524517797
 inventory:
   "/opportunities/index.html":
     md5: cdc18e63be1017b1f135e25e4560312f
@@ -209,8 +209,8 @@ inventory:
     md5: 9a4a7ff785319234f4237404a34c9d40
     time: 1521152173
   "/contact/index.html":
-    md5: b46f4c67b9cc074f2bc83e20eeb634d5
-    time: 1521152173
+    md5: 6283509b8d0b060d994dbfb281d167f2
+    time: 1524517793
   "/about-framework-contracts/index.html":
     md5: 8af3a4f6216913adae6fac065e1833ab
     time: 1521152173
@@ -281,14 +281,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: 76231c69fd3f35d7f12aeb168aa7520a
-    time: 1521152174
+    md5: 9b7f02e975c20f558fc9a47a938cdb12
+    time: 1524517795
   "/feed.xml":
-    md5: 4239f024e10b80cd11e9109477c6f0b8
-    time: 1521152174
-  "/assets/hemel_map.jpg":
-    md5: 157573bf91740bfbdfc93ccfa4fd45b2
-    time: 1405544447
+    md5: f0f461cf6cd099d5aadcf47babc51d80
+    time: 1524517795
   "/assets/hcl.jpg":
     md5: 6baefc9eed6570ae4de09ac65ccde07c
     time: 1405544447

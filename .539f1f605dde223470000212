@@ -1,5 +1,5 @@
 ---
-time: 1532854292
+time: 1532854380
 inventory:
   "/opportunities/index.html":
     md5: 231bea6481c134eb8eb947130bd3a7c9
@@ -29,8 +29,8 @@ inventory:
     md5: ee41497c5b4986a0fd4650dbb3099bbf
     time: 1532854237
   "/current-opportunities/key-expert-4-expert-for-minerals-oil-and-gas-category-i/index.html":
-    md5: 741aaab2700de75168f5544cf2c4d8b3
-    time: 1532854237
+    md5: a92f00e47bb5cba942fc23fc2069efe9
+    time: 1532854373
   "/current-opportunities/key-expert-3-expert-for-industrialization-and-value-addition-category-i/index.html":
     md5: 83deaee95bea0c9119eb871fad850b0a
     time: 1532854237
@@ -440,11 +440,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: 7e9a3572309d1b169c1842b9a6df67ca
-    time: 1532854242
+    md5: b2319b4fdd658de105872a9224822e99
+    time: 1532854378
   "/feed.xml":
-    md5: 401295d1a27710fd56f26f656996d9e6
-    time: 1532854242
+    md5: e7ab456fb85442bb1f4673575962b86b
+    time: 1532854378
   "/assets/hcl.jpg":
     md5: 6baefc9eed6570ae4de09ac65ccde07c
     time: 1405544447

@@ -1,5 +1,5 @@
 ---
-time: 1532854063
+time: 1532854109
 inventory:
   "/opportunities/index.html":
     md5: 6790a9b44df874f1ad6fae8b04e26fbf
@@ -32,8 +32,8 @@ inventory:
     md5: 79582dffa136dc102b750db3c959e480
     time: 1532702624
   "/current-opportunities/key-expert-3-expert-for-industrialization-and-value-addition-category-i/index.html":
-    md5: c355975619bb3d404aa79c811f97b0a9
-    time: 1532702624
+    md5: 0698740a2588a3655e2ccf6a7ea1e8d7
+    time: 1532854102
   "/current-opportunities/key-expert-2-expert-for-employment-category-i/index.html":
     md5: 54a093886c1257692807c4eabaf281fc
     time: 1532854056
@@ -338,8 +338,8 @@ inventory:
     md5: ff59999e1c1e146489a54b728a6df95b
     time: 1532702626
   "/current-opportunities/archive/index.html":
-    md5: 25a6176d5da6c729a0f36c084be9445e
-    time: 1532854058
+    md5: f5a53d3ce9c101f8229e23a14b344f54
+    time: 1532854104
   "/current-opportunities/tags/index.html":
     md5: 130b4d6e0e051efd5d142d827d1f7e03
     time: 1532702626
@@ -422,8 +422,8 @@ inventory:
     md5: fad734472db616b6a8bce0048a339531
     time: 1532702628
   "/lots/siea-2/index.html":
-    md5: f8ef9f24174575d89d8acc60e2b655c1
-    time: 1532854060
+    md5: 29b280fb3b529dd270206846a8275af6
+    time: 1532854106
   "/lots/siea-3/index.html":
     md5: a8e7e0b3e3b6fe54961eb6b39725d64a
     time: 1532702628
@@ -440,11 +440,11 @@ inventory:
     md5: 74887c15f217da35f61eac7db251dbe0
     time: 1405544447
   "/sitemap.xml":
-    md5: 4b905acd347271ede06f2756b7fa4143
-    time: 1532854061
+    md5: 0cc8e760eaa3d1eacc6ba6e7528186eb
+    time: 1532854106
   "/feed.xml":
-    md5: 02339479d0fc4455d9d5b3a09083d9aa
-    time: 1532854061
+    md5: c3def7989d051235698e97fb15bbd1a3
+    time: 1532854106
   "/assets/hcl.jpg":
     md5: 6baefc9eed6570ae4de09ac65ccde07c
     time: 1405544447
